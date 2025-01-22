@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+G:\Algoritimos Faculdade\Exercicio 1 trabalho linguagem de programação\Exercicio 1\Origem.cpp(8,17): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+G:\Algoritimos Faculdade\Exercicio 1 trabalho linguagem de programação\Exercicio 1\Origem.cpp(20,3): warning C4551: faltando lista de argumentos na chamada de função
+  Exercicio 1.vcxproj -> G:\Algoritimos Faculdade\Exercicio 1 trabalho linguagem de programação\Debug\Exercicio 1.exe

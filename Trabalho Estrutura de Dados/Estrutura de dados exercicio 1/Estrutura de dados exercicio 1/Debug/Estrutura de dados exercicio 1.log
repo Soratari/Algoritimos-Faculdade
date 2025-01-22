@@ -1,0 +1,9 @@
+﻿  Origem.cpp
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Estrutura de dados exercicio 1\Estrutura de dados exercicio 1\Origem.cpp(52,17): warning C4390: ';': instrução controlada vazia encontrada; é esta a intenção?
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Estrutura de dados exercicio 1\Estrutura de dados exercicio 1\Origem.cpp(95,11): warning C4477: 'scanf_s': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'playlist_musical **'
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Estrutura de dados exercicio 1\Estrutura de dados exercicio 1\Origem.cpp(95,11): message : esse argumento é usado por um especificador de conversão
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Estrutura de dados exercicio 1\Estrutura de dados exercicio 1\Origem.cpp(95,11): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Estrutura de dados exercicio 1\Estrutura de dados exercicio 1\Origem.cpp(95,11): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Estrutura de dados exercicio 1\Estrutura de dados exercicio 1\Origem.cpp(95,11): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Estrutura de dados exercicio 1\Estrutura de dados exercicio 1\Origem.cpp(95,11): message : esse argumento é usado como um tamanho do buffer
+  Estrutura de dados exercicio 1.vcxproj -> G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Estrutura de dados exercicio 1\Debug\Estrutura de dados exercicio 1.exe

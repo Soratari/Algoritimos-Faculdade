@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\Algoritimos Faculdade\Trabalho Programação Orientada a Objetos\.metadata\.plugins\org.eclipse.jdt.core
+3165871726.index
+3295111698.index

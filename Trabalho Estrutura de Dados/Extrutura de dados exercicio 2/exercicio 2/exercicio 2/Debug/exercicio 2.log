@@ -1,0 +1,7 @@
+﻿  Origem.cpp
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Extrutura de dados exercicio 2\exercicio 2\exercicio 2\Origem.cpp(110,12): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Extrutura de dados exercicio 2\exercicio 2\exercicio 2\Origem.cpp(110,12): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Extrutura de dados exercicio 2\exercicio 2\exercicio 2\Origem.cpp(110,12): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Extrutura de dados exercicio 2\exercicio 2\exercicio 2\Origem.cpp(110,12): message : esse argumento é usado como um tamanho do buffer
+G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Extrutura de dados exercicio 2\exercicio 2\exercicio 2\Origem.cpp(112,48): warning C4390: ';': instrução controlada vazia encontrada; é esta a intenção?
+  exercicio 2.vcxproj -> G:\Algoritimos Faculdade\Trabalho Estrutura de Dados\Extrutura de dados exercicio 2\exercicio 2\Debug\exercicio 2.exe
